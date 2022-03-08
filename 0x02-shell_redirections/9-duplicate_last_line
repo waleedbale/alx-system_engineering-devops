@@ -1,3 +1,2 @@
 #!/bin/bash
-tail -l iacta >> iacta
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+tail -1 iacta >> iacta
